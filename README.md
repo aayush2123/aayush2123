@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayush2123
+- 👋 Hi, I’m Aayush Gupta
 - 👀 I’m interested in Python, HTML, CSS , JS
 - 🌱 I’m currently learning Termux ,
 - 💞️ I’m looking to collaborate on the future projects based on web development as a fronted developer
